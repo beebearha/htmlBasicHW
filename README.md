@@ -6,7 +6,7 @@
 
 請下載此Github Repository，到電腦內練習。
 
-1. 點選右手邊按鈕【 Clone or Download 】
+1. 於本頁面右手邊點選綠色按鈕【 Clone or Download 】
 2. 點選 Download ZIP
 3. 下載完成後解壓縮檔案練習
 
